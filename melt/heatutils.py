@@ -13,12 +13,8 @@ following Barr+ 2018
 
 # Import modules ---------- 
 import numpy as np
-import matplotlib.pyplot as plt
-from auxbenneke.constants import Mearth, Rearth, G, day
-import astropy.constants as const
 
 #%% Constants
-sec_in_a_day = 24. * 3600.
 
 # rock properties
 Qstar = 333*1e3 # J/mol

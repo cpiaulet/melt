@@ -5,6 +5,8 @@ Created on Tue Feb 23 12:59:20 2021
 
 @author: caroline
 
+HeatedPlanet Class definition
+
 Energy balance model to calculate tidal energy flux
 and temperature in the convecting rock mantle
 following Barr+ 2018
@@ -12,14 +14,11 @@ following Barr+ 2018
 
 # Import modules ---------- 
 import numpy as np
-import matplotlib.pyplot as plt
 import astropy.constants as const
 import heatutils as hu
-import sys
 
 #%% Constants
 sec_in_a_day = 24. * 3600.
-
 
 #%% Object definition
 class HeatedPlanet(object):
