@@ -9,8 +9,8 @@ Calculate and plot energy balance profiles using melt
 
 import numpy as np
 import matplotlib.pyplot as plt
-import melt.heatedplanet as hp
-import melt.heatutils as hu
+from melt import heatedplanet as hp
+from melt import heatutils as hu
 
 # Test planet
 
