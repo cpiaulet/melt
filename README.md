@@ -27,7 +27,7 @@ All the required inputs are set in a dictonary which should contain:
 * orbital period in days,
 * eccentricity
 
-See ```melt_analysis/python plot_energy_balance_example.py``` for an example of how to create a HeatedPlanet object from this dictionary, calculate convective and tidal flux profiles, and plot them! 
+See ```melt_analysis/python plot_energy_balance_example.py``` for an example of how to create a ```HeatedPlanet``` object from this dictionary, calculate convective and tidal flux profiles, and plot them! 
 
 ### Example
 Copy the two folders in ```melt/example/``` wherever in your installation you want to run your code;
