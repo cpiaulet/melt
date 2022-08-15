@@ -66,3 +66,5 @@ ax.text(1420, -3.0, "B=20", color="g")
 
 ax.text(1500., -1.1, r"F$_\mathrm{conv}$", rotation=10)
 ax.text(1500., 0.75, r"F$_\mathrm{tidal}$", rotation=20)
+
+fig.savefig("../melt_results/energy_balance_example.pdf")
