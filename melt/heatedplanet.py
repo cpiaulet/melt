@@ -15,7 +15,7 @@ following Barr+ 2018
 # Import modules ---------- 
 import numpy as np
 import astropy.constants as const
-import heatutils as hu
+import melt.heatutils as hu
 
 #%% Constants
 sec_in_a_day = 24. * 3600.
