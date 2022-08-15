@@ -30,6 +30,6 @@ All the required inputs are set in a dictonary which should contain:
 See ```melt_analysis/python plot_energy_balance_example.py``` for an example of how to create a HeatedPlanet object from this dictionary, calculate convective and tidal flux profiles, and plot them! 
 
 ### Example
-Copy the three folders in ```melt/example/``` wherever in your installation you want to run your code;
+Copy the two folders in ```melt/example/``` wherever in your installation you want to run your code;
 
 In ```melt_analysis/```, run ```python plot_energy_balance_example.py``` and inspect the results in ```melt_results/```.
