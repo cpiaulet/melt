@@ -3,7 +3,7 @@ Energy balance calculation for rocky planet interiors under the influence of tid
 
 *melt* (siMple Energy baLance with Tides) is a tool to calculate equilibrium between tidal and convective energy profiles in the interior of a rocky planet. This code is based on a simple Maxwell rheology prescription as described in Barr et al. (2018), which follows Moore (2003) and  Dobos and Turner (2015).
 
-If you use this code, please cite the paper in which it was first developed and released (Peterson et al. (2023): https://ui.adsabs.harvard.edu/abs/2023Natur.617..701P/abstract).
+If you use this code, please cite the paper in which it was first developed and released: Peterson et al. (2023); https://ui.adsabs.harvard.edu/abs/2023Natur.617..701P/abstract.
 
 Please also cite the following papers on which the model is based: 
 * https://ui.adsabs.harvard.edu/abs/2018A%26A...613A..37B/abstract
